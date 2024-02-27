@@ -49,6 +49,7 @@ body {
     margin-bottom: 25px;
 }
 .social-mid p{
+    width: 375px;
     line-height: 3;
     background-color: hsl(0, 0%, 20%);
     color: white;
